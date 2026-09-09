@@ -2,7 +2,7 @@
 
 This policy explains how members of the public can responsibly report vulnerabilities to the Department for Business, Innovation, Science and Trade ([BIST](https://www.gov.uk/government/organisations/department-for-business-innovation-science-and-trade)).
 
-It is intended for members of the public and external security researchers. Internal staff should instead report vulnerabilities directly to the Cyber Security team, and follow the internal [Code Repository Hardening](https://platform.readme.trade.gov.uk/managed/features/code-repository-hardening/) guidelines to minimise them.
+It is intended for members of the public and external security researchers. Internal staff should instead report vulnerabilities directly to the Cyber Security team, and follow the [Code Repository Framework](https://platform.readme.trade.gov.uk/managed/features/code-security-framework/) to minimise them.
 
 ## Reporting a vulnerability
 
